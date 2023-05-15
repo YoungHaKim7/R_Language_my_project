@@ -1,3 +1,8 @@
+# R Discord 
+
+https://stackoverflow.com/collectives/r-language/bulletins/76168959/join-the-discord-server
+
+
 # Teminal 에서 실행하는 방법
 
 ```
