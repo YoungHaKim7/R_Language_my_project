@@ -1,6 +1,15 @@
 # R_Language_my_project
 
+# VSCode Run code (이게 편하다)
 
+cmd + shift + enter
+⌘ + ⇧ + ⏎
+
+## VSCode Extensions(R Extensions)
+
+https://marketplace.visualstudio.com/items?itemName=Mikhail-Arkhipov.r
+
+<hr>
 
 # R 로 sine 함수 그리기
 
